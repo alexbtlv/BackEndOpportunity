@@ -3,7 +3,9 @@ Given some integer, find the maximal number you can obtain by deleting exactly o
 # Example
 
 For n = 152, the output should be deleteDigit(n) = 52;
+
 For n = 1001, the output should be deleteDigit(n) = 101;
+
 For n = 222219, the output should be deleteDigit(n) = 22229;
 
 # Input/Output
