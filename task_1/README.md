@@ -7,7 +7,7 @@ areFollowingPatterns(strings, patterns) = true;
 For strings = ["car", "mazda", "mercedes"] and patterns = ["a", "b", "b"], the output should be
 areFollowingPatterns(strings, patterns) = false.
 
-#Input/Output
+# Input/Output
 
 [execution time limit] 4 seconds
 
