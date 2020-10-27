@@ -8,15 +8,18 @@ Your task is to check by given string inputString whether it corresponds to MAC-
 
 For inputString = "00-1B-63-84-45-E6", the output should be
 isMAC48Address(inputString) = true;
+
 For inputString = "Z1-1B-63-84-45-E6", the output should be
 isMAC48Address(inputString) = false;
+
 For inputString = "not a MAC-48 address", the output should be
 isMAC48Address(inputString) = false.
-Input/Output
 
-[execution time limit] 4 seconds (go)
+# Input/Output
 
-[input] string inputString
+[execution time limit] 4 seconds
+
+[input] string 
 
 Guaranteed constraints:
 15 ≤ inputString.length ≤ 20.
