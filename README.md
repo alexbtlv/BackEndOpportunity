@@ -66,3 +66,10 @@ Bachelor's degree or higher in computer science, mathematics, computer informati
 Experience working in startups, creating MVP, conducting Beta testing, launching a product.
 Experience with WebRTC.
 Experience with WebSockets.
+
+# Как откликнуться
+
+- Делаете форк данного репозитория 
+- Необходимо решить или попытаться решить задачки 1-3
+- Создаете Pull Request 
+- Присылаете резюме и ссылку на Pull Request в https://t.me/alexander_batalov
