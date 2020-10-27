@@ -4,6 +4,7 @@ Given an array strings, determine whether it follows the sequence given in the p
 
 For strings = ["car", "tree", "tree"] and patterns = ["a", "b", "b"], the output should be
 areFollowingPatterns(strings, patterns) = true;
+
 For strings = ["car", "mazda", "mercedes"] and patterns = ["a", "b", "b"], the output should be
 areFollowingPatterns(strings, patterns) = false.
 
