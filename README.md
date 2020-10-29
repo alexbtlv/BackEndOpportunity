@@ -36,7 +36,7 @@ Workcall- сервис платных онлайн консультаций, в�
 
 # Открытые ваканансии:
 
-# Back-end Software Engineer
+# Tech Lead / Senior Software Engineer
 
 ## Employment type: 
 Full time remotely.
@@ -53,8 +53,12 @@ To participate in woking process planing activities with the team.
 To use your own experience in suggesting the best options, when making design / implementation decisions.
 
 ## Requirements:
-Software engineering experience (4 years).
+Software engineering experience (5 years).
 Practical knowledge of Go (2 years experience).
+Strong system design skills.
+Strategic Thinking.
+Effective Hiring.
+Comprehensive knowledge of data structures and algorithms.
 Understanding of Microservices architecture concepts.
 Understanding of SOLID architectural principles.
 Experience with unit-testing.
